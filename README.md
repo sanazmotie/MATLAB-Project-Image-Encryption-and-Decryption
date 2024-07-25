@@ -1,6 +1,6 @@
 # MATLAB Project: Image Encryption and Decryption
 
-This repository contains a project focused on exploring image processing and encryption techniques using MATLAB. The primary objective is to develop a program that encrypts a user-provided sentence into an image and subsequently decrypts it back to its original form. This endeavor is part of my initial attempts to understand and implement encryption and Decryption methods within the realm of image processing in MATLAB.
+This repository contains a project focused on exploring image processing and encryption techniques using MATLAB. The primary objective is to develop a program that encrypts a user-provided sentence into an image and subsequently decrypts it back to its original form. This endeavor is part of my initial attempts to understand and implement encryption and decryption methods within the realm of image processing in MATLAB.
 
 ## Project Overview
 
